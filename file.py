@@ -75,7 +75,7 @@ st.image("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFRU
 st.write("display images")
 st.image("https://tinyurl.com/322vu3ab")
 st.write("multiple images ")
-
+st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGkL5ZTr9E8oMosgTzTGUW4Pl8bMkFZSA_A&usqp=CAU")
 
 # Listing out animal images
 images_all = [
